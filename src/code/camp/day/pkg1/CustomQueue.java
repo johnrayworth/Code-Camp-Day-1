@@ -15,6 +15,7 @@ public class CustomQueue extends LinkedList{
     
     public void enqueue(Pez o){
         super.addLast(o);
+        //
     }
     
     public Pez dequeue(){
