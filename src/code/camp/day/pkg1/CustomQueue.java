@@ -22,6 +22,8 @@ public class CustomQueue extends LinkedList{
         return (Pez) super.removeFirst();
         //
         //
+        //
+        //
     }
     
    ///For your dossier, use this incombination with what you will
